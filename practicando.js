@@ -1,3 +1,3 @@
-- Todosposible
-console.log("sigo practicando");
+ - Todos es posible
+
 `console.log("practicando con git hub")`
