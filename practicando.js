@@ -6,5 +6,3 @@ practicando
 console.log("segunda revisión");
 
 console.log("tercera revisión");
-
-console.log("cuarta vez  probando");
